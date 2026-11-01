@@ -1,0 +1,3 @@
+wheel_1_nominal_reference_voltage_V: 11.273172379
+wheel_2_nominal_reference_voltage_V: 11.273172379
+voltage_before_after_readings: not available
